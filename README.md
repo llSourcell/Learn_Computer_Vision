@@ -96,7 +96,7 @@ Join the #Computer_Vision_curriculum channel in our Slack channel to find one ht
 #### Video Lectures
 - https://www.youtube.com/playlist?list=PLyH-5mHPFffFvCCZcbdWXAb_cTy4ZG3Dj 
 #### Reading Assignments
-- http://vision.cs.utexas.edu/376-spring2018/#Tues_May_1 Sections in book
+- http://vision.cs.utexas.edu/376-spring2018/#Tues_May_1 see the associated readings on this page
 #### Project
 - Turn a set of images into a 3D Object with OpenCV
 
@@ -108,7 +108,8 @@ Join the #Computer_Vision_curriculum channel in our Slack channel to find one ht
 - https://www.youtube.com/watch?v=-nt80JUNwlw&list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p&index=2 video 9  
 - all videos https://www.coursera.org/learn/stereovision-motion-tracking 
 #### Reading Assignments
-####### Google and read the following papers
+- None
+##### Google and read the following papers
 - 1. N. Dalal, Histograms of oriented gradients for human detection 
 - 2. G. Csurka et al. (Bag of Visual Words - a brilliant representation of cross field research) Visual categorization with bags of keypoints
 - 3. S Lazebnik, C Schmid, J Ponce, Beyond bags of features: Spatial pyramid matching for recognizing natural scene categories 
@@ -131,7 +132,7 @@ Join the #Computer_Vision_curriculum channel in our Slack channel to find one ht
 - https://www.youtube.com/watch?v=a-v5_8VGV0A&list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p&index=8 10-18 
 - my video on YOLO
 #### Reading Assignments
-rest of the readings first half recognition http://vision.cs.utexas.edu/376-spring2018/#Tues_May_1 
+- http://vision.cs.utexas.edu/376-spring2018/#Tues_May_1 see the associated readings on this page
 #### Project
 - Classify a car in an image with Tensorflow
 
@@ -149,7 +150,7 @@ rest of the readings first half recognition http://vision.cs.utexas.edu/376-spri
 - my video on transfer learning
 - Lectures 1-16 Stanford https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv 
 #### Reading Assignments
-- next half recogniton http://vision.cs.utexas.edu/376-spring2018/#Tues_May_1 
+- http://vision.cs.utexas.edu/376-spring2018/#Tues_May_1 see the associated readings on this page
 #### Project
 - Build a Generative Adversarial Network to detect faces
 
