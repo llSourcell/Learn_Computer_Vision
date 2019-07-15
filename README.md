@@ -108,7 +108,6 @@ Join the #Computer_Vision_curriculum channel in our Slack channel to find one ht
 - https://www.youtube.com/watch?v=-nt80JUNwlw&list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p&index=2 video 9  
 - all videos https://www.coursera.org/learn/stereovision-motion-tracking 
 #### Reading Assignments
-- None
 ##### Google and read the following papers
 - 1. N. Dalal, Histograms of oriented gradients for human detection 
 - 2. G. Csurka et al. (Bag of Visual Words - a brilliant representation of cross field research) Visual categorization with bags of keypoints
