@@ -140,7 +140,7 @@ Join the #Computer_Vision_curriculum channel in our Slack channel to find one ht
 - Dimensionality reduction
 - Non-parametric methods and big data
 - U-Net
-- Tranfer learning
+- Transfer learning
 - Avoiding Overfitting 
 - GANs
 
