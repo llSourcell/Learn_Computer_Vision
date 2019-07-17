@@ -40,7 +40,7 @@ Join the #Computer_Vision_curriculum channel in our Slack channel to find one ht
 - Template Matching (find object in an image)
 
 #### Video Lectures
-- https://www.youtube.com/watch?v=-nt80JUNwlw&list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p&index=2 videos 1-5 
+- https://www.youtube.com/watch?v=-nt80JUNwlw&list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p&index=2 videos 1-6 
 #### Reading Assignments
 - http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf  Sec 3.1.1-2, 3.2 Sec 3.2.3, 4.2 3.3.2-4
 #### Project
