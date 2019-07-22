@@ -47,7 +47,7 @@ Join the #Computer_Vision_curriculum channel in our Slack channel to find one ht
 - Detect an object in an image via the OpenCV Library
 
 ### Week 2 (Motion and Optical Flow)
-- Motion Analyis
+- Motion Analysis
 - Optical Flow
 #### Video Lectures
 - https://www.udacity.com/course/introduction-to-computer-vision--ud810 Udacity lesson 6
