@@ -101,7 +101,7 @@ Join the #Computer_Vision_curriculum channel in our Slack channel to find one ht
 - Turn a set of images into a 3D Object with OpenCV
 
 #### Week 6 (3D Scenes)
-- Stereo Vision, Dense Motion and Tracking;. 3d Objects 
+- Stereo Vision, Dense Motion and Tracking; 3d Objects 
 - 3D Scene understanding
 - 3D Segmentation and Modeling
 #### Video Lectures
@@ -125,7 +125,7 @@ Join the #Computer_Vision_curriculum channel in our Slack channel to find one ht
 - Supervised classification algorithms
 - Probabilistic models for sequence data
 - Visual attributes
-- Optical Character Recognition
+- Optical Character Recognition (OCR)
 - Facial Detection
 #### Video Lectures
 - https://www.youtube.com/watch?v=a-v5_8VGV0A&list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p&index=8 10-18 
@@ -142,7 +142,7 @@ Join the #Computer_Vision_curriculum channel in our Slack channel to find one ht
 - U-Net
 - Transfer learning
 - Avoiding Overfitting 
-- GANs
+- GANs (Generative Adversarial Network)
 
 #### Video Lectures
 - videos 19-20   https://www.youtube.com/watch?v=a-v5_8VGV0A&list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p&index=8 
