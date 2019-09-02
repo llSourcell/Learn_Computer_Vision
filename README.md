@@ -58,9 +58,9 @@ Join the #Computer_Vision_curriculum channel in our Slack channel to find one ht
 #### Project
 - Track a moving object in a video frame with OpenCV
 
-### Part 2: Mid Level Vision (image > features)
+## Part 2: Mid Level Vision (image > features)
 
-#### Week 3 (Basic Segmentation)
+### Week 3 (Basic Segmentation)
 - Segmentation and clustering algorithms like watershed, grabcut
 - Interactive segmentation
 - Hough transform (detect circles, lines)
@@ -74,7 +74,7 @@ Join the #Computer_Vision_curriculum channel in our Slack channel to find one ht
 #### Project
 - Segment Lane lines in a road image with OpenCV
 
-#### Week 4 (Fitting)
+### Week 4 (Fitting)
 - Fitting lines and curves
 - Robust fitting, RANSAC
 - Deformable contours
@@ -85,9 +85,9 @@ Join the #Computer_Vision_curriculum channel in our Slack channel to find one ht
 #### Project
 - Compute Vanishing Points in a hallway image with OpenCV
 
-### Part 3: Multiple Views
+## Part 3: Multiple Views
 
-#### Week 5 (Multiple Images)
+### Week 5 (Multiple Images)
 - Local invariant feature detection and description
 - Image transformations and alignment
 - Planar homography
@@ -100,7 +100,7 @@ Join the #Computer_Vision_curriculum channel in our Slack channel to find one ht
 #### Project
 - Turn a set of images into a 3D Object with OpenCV
 
-#### Week 6 (3D Scenes)
+### Week 6 (3D Scenes)
 - Stereo Vision, Dense Motion and Tracking;. 3d Objects 
 - 3D Scene understanding
 - 3D Segmentation and Modeling
@@ -116,9 +116,9 @@ Join the #Computer_Vision_curriculum channel in our Slack channel to find one ht
 #### Project
 - Perform Object Segmentation in a 3D Scene with OpenCV
 
-### Part 4: High Level Vision (Features > Analysis)
+## Part 4: High Level Vision (Features > Analysis)
 
-#### Week 7 (Object Detection & Classification)
+### Week 7 (Object Detection & Classification)
 - Object/scene/activity categorization (semantic segmentation)
 - Object detection (Non max suppression , sliding windows, Boundary boxes and anchors, counting)
 - YOLO and Darknet, region proposal networks 
@@ -135,7 +135,7 @@ Join the #Computer_Vision_curriculum channel in our Slack channel to find one ht
 #### Project
 - Classify a car in an image with Tensorflow
 
-#### Week 8 (Modern Deep Learning)
+### Week 8 (Modern Deep Learning)
 - Active learning
 - Dimensionality reduction
 - Non-parametric methods and big data
