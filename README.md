@@ -23,7 +23,7 @@ Join the #Computer_Vision_curriculum channel in our Slack channel to find one ht
 
 ## Prerequisites
 
-- Learn Python https://www.edx.org/course/introduction-to-python-for-data-science-3
+- Learn Python https://www.edx.org/course/python-basics-for-data-science
 - Calculus http://tutorial.math.lamar.edu/pdf/Calculus_Cheat_Sheet_All.pdf 
 - Linear Algebra https://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf 
 
